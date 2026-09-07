@@ -16,4 +16,4 @@ Then you should
 
 git commit  -m "some info"
 
-fine
+accidental line 
