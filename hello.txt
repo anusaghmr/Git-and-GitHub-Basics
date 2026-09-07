@@ -1,0 +1,18 @@
+If you are adding File into your GitHub, 
+The First Step You should follow is :
+
+git  init 
+
+After this your Repo is created and you get this message 
+
+Initialized empty Git repository in C:/Users/Anusha Ghimire/OneDrive/Desktop/DevOps/.git/
+
+then you should 
+
+git add . 
+
+This Results nothing 
+Then you should 
+
+git commit  -m "some info"
+
