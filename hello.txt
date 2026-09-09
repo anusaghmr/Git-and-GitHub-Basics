@@ -1,4 +1,4 @@
-Hello from feature branch
+Hello from conflict branch
 If you are adding File into your GitHub, 
 The First Step You should follow is :
 
